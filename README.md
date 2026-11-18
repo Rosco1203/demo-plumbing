@@ -1,0 +1,2 @@
+# Demo Plumbing Co. (FICTIONAL demo site)
+Proof-of-work site by RoMar Digital for its Website Build + AI Chatbot + AI Receptionist services. Demo Plumbing Co. is not a real business. Static HTML/CSS/JS, no tracking, `noindex`. Nothing submitted is sent or stored. The chat widget is a Retell AI chat agent (automated assistant, chats may be recorded); the phone number shown is the RoMar Digital demo line.
